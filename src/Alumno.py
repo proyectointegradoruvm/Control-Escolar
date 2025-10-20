@@ -1,4 +1,3 @@
-// Clase Alumno - Sprint 0
 #include <string>
 using namespace std;
 
